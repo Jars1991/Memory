@@ -9,4 +9,4 @@ Este juego es una implementación del juego clásico de Memorias en Python 3.3.2
 
 ### screenShots
   * [Juego en accion](https://raw.github.com/Jars1991/Memory/master/screenShots/jugando.PNG)
-  * [Ganando el juego](https://raw.github.com/Jars1991/Memory/master/screenShots/ganando.PNG
+  * [Ganando el juego](https://raw.github.com/Jars1991/Memory/master/screenShots/ganando.PNG)
